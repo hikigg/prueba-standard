@@ -1,3 +1,4 @@
+/*
 package microservicio.documents.application.services.implementations;
 
 import microservicio.documents.application.repositories.DocumentRepository;
@@ -87,3 +88,4 @@ public class DocumentService implements IDocumentService {
         DocumentE documentDTO = findByDocument(id);
     }
 }
+*/
